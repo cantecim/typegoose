@@ -5,7 +5,7 @@
     "tslint-consistent-codestyle"
   ],
   "rulesDirectory": [
-    "node_modules/tslint-eslint-rules/dist/rules"
+    "../../tslint-eslint-rules/dist/rules"
   ],
   "rules": {
     "quotemark": {
