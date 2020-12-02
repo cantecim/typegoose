@@ -1,3 +1,5 @@
+# DO NOT USE FOR YOURSELF!
+
 # Typegoose
 
 <sub>(These badges are from typegoose:master)</sub>  
